@@ -1,1 +1,2 @@
-# Internship-task-1
+I Did my work by utilizing kali linux machine, Initially I examine the IP address of system; IP address range of mine is 192.168.146.0/24 subsequently I utilize namp for scanning network. I conducted TCP SYN scan to whole network. After the TCP SYN sacn in order to identify how many hosts are available and open ports as well. To examine the open ports, what are the services which are running and what are the possibilities to exploit that services. Wireshark is packet analyzer it analyzes traffic and confirms scan results. Identifying anomalies.
+what I am doing in the task clearly explain in my Internship-task-1 docx.
